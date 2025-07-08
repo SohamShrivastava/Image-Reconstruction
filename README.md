@@ -71,5 +71,3 @@ Developed as part of an ML course assignment at IIT Gandhinagar.
 
 - [Aditya Jain](https://github.com/AdityaJain2373) 
 - [Vansh Kumar](https://github.com/VanshOnGit)
-
---
