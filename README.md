@@ -16,7 +16,7 @@ Developed as part of an ML course assignment at IIT Gandhinagar.
 
 ---
 
-## 🛠️ Methods
+## Methods
 
 ### 1. RFF-Based Image Reconstruction
 - Used Random Fourier Features to map pixel coordinates \((x, y)\) into a high-dimensional feature space.
@@ -40,13 +40,7 @@ Developed as part of an ML course assignment at IIT Gandhinagar.
 
 ---
 
-## Visual Comparison
-
-> *(Insert image grid showing original and reconstructed outputs side by side for both methods)*
-
----
-
-## 📊 Understanding RMSE and PSNR
+## Understanding RMSE and PSNR
 
 ###  RMSE (Root Mean Squared Error)
 - Measures the average difference between original and reconstructed pixel values.
